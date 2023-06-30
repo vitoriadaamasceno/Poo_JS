@@ -1,4 +1,4 @@
-- Herança
+# Herança
 
 Para evitar repetição de entidades, usamos Herança para passar características e responsabilidades. Em um sistema desenvolvido para uma escola, por exemplo, onde existam Entidades Alunos e Pessoas: 
 
