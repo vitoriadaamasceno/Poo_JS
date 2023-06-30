@@ -1,4 +1,5 @@
-- O que é programação orientada a objetos?
+# Programação Orientada a Objetos - JavaScript
+## O que é programação orientada a objetos?
 
 Paradigmas de programação existem para responder questões que surgem justamente do processo de pensar na abordagem que será utilizada para a solução de problemas.
 
@@ -13,22 +14,22 @@ O departamento também será uma entidade, um objeto. Um departamento pode ter u
 Este funcionário pode ser terceirizado ou direto. Com isso, estabelecemos uma generalização, o funcionário, e sua especialização, ou seja, o funcionário terceirizado, por exemplo.
 
 
-- Por que a programação orientada a objetos é importante?
+## Por que a programação orientada a objetos é importante?
 
 Não é à toa que a programação orientada a objetos se tornou muito utilizada no mercado de trabalho e famosa na comunidade das pessoas desenvolvedoras. Sua utilização traz diversos benefícios para os códigos, que abordaremos melhor mais para frente nesse mesmo artigo. Alguns desses benefícios são o encapsulamento e a reutilização de códigos, os tornando mais legíveis e trazendo uma maior produtividade para quem está desenvolvendo.
 
 Exatamente por se tornar algo mundialmente utilizado e que vem ganhando cada vez mais força, a sua implementação e estudo se tornou fundamental para qualquer desenvolvedor. 
 
- - Os 6 Pilares
+## Os 6 Pilares
 
- Herança 
+ - Herança 
  
- Polimorfismo
+ - Polimorfismo
  
- Composição
+ - Composição
  
- Abstração
+ - Abstração
  
- Encapsulamento
+ - Encapsulamento
  
- Classificação
+ - Classificação
