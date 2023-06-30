@@ -22,8 +22,13 @@ Exatamente por se tornar algo mundialmente utilizado e que vem ganhando cada vez
  - Os 6 Pilares
 
  Herança 
+ 
  Polimorfismo
+ 
  Composição
+ 
  Abstração
+ 
  Encapsulamento
+ 
  Classificação
